@@ -150,17 +150,17 @@
     
     "menu" : [
         {
-    
-            "active" : "true",
-            "name" : "games",
-            "ico" : "https://i.ibb.co/2sF3Pj4/gamee.png",
-            "bg" : "#673AB7"
-              },{
-    
+
             "active" : "false",
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
+               "active" : "true",
+             },{
+            "name" : "games",
+            "ico" : "https://i.ibb.co/2sF3Pj4/gamee.png",
+            "bg" : "#673AB7"
+              },{
         },{
             "active" : "true",
             "name" : "puzzle",
@@ -199,7 +199,7 @@
         },{
             "active" : "true",
             "name" : "FAKECALL",
-            "ico" : "https://i.ibb.co/8mrkhXK/puzzul.png",
+            "ico" : "https://i.ibb.co/ccYJRrQ/call.png",
             "bg" : "#3F51B5"
         
         }
