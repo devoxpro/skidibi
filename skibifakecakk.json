@@ -155,12 +155,7 @@
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
-    
-             },{
-             "active" : "true",
-            "name" : "games",
-            "ico" : "https://i.ibb.co/2sF3Pj4/gamee.png",
-            "bg" : "#673AB7"
+
               },{
             "active" : "true",
             "name" : "puzzle",
@@ -201,6 +196,12 @@
             "name" : "FAKECALL",
             "ico" : "https://i.ibb.co/ccYJRrQ/call.png",
             "bg" : "#3F51B5"
+            
+             },{
+             "active" : "true",
+            "name" : "games",
+            "ico" : "https://i.ibb.co/2sF3Pj4/gamee.png",
+            "bg" : "#673AB7"
         
         }
     ],
