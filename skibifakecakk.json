@@ -155,8 +155,9 @@
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
-               "active" : "true",
+    
              },{
+             "active" : "true",
             "name" : "games",
             "ico" : "https://i.ibb.co/2sF3Pj4/gamee.png",
             "bg" : "#673AB7"
